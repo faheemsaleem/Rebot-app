@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rebot-app/static/css/main.654a9aec.chunk.css",
+    "main.js": "/rebot-app/static/js/main.cde1d63e.chunk.js",
+    "main.js.map": "/rebot-app/static/js/main.cde1d63e.chunk.js.map",
+    "runtime-main.js": "/rebot-app/static/js/runtime-main.48ab49ab.js",
+    "runtime-main.js.map": "/rebot-app/static/js/runtime-main.48ab49ab.js.map",
+    "static/js/2.cb808454.chunk.js": "/rebot-app/static/js/2.cb808454.chunk.js",
+    "static/js/2.cb808454.chunk.js.map": "/rebot-app/static/js/2.cb808454.chunk.js.map",
+    "index.html": "/rebot-app/index.html",
+    "precache-manifest.4bcaa00f2dba0fe7b2f6dcd5c295ea24.js": "/rebot-app/precache-manifest.4bcaa00f2dba0fe7b2f6dcd5c295ea24.js",
+    "service-worker.js": "/rebot-app/service-worker.js",
+    "static/css/main.654a9aec.chunk.css.map": "/rebot-app/static/css/main.654a9aec.chunk.css.map",
+    "static/js/2.cb808454.chunk.js.LICENSE": "/rebot-app/static/js/2.cb808454.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48ab49ab.js",
+    "static/js/2.cb808454.chunk.js",
+    "static/css/main.654a9aec.chunk.css",
+    "static/js/main.cde1d63e.chunk.js"
+  ]
+}
